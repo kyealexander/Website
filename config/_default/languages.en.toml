@@ -16,7 +16,7 @@ title = "Kye Alex"
 [author]
   name = "Kye Alex"
 #   image = "img/blowfish_logo.png"
-  headline = "I'm only human"
+  headline = "Cyber Security Student"
 #   bio = "A little bit about you"
   links = [
     { email = "mailto:kye@kyealex.com" },
@@ -39,7 +39,7 @@ title = "Kye Alex"
 #     { keybase = "https://keybase.io/username" },
 #     { kickstarter = "https://www.kickstarter.com/profile/username" },
 #     { lastfm = "https://lastfm.com/user/username" },
-#     { linkedin = "https://linkedin.com/in/username" },
+    { linkedin = "https://linkedin.com/in/kyemurphy" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { medium = "https://medium.com/username" },
 #     { microsoft = "https://www.microsoft.com/" },
