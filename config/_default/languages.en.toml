@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Kye Alex"
+title = "Kye Murphy"
 
 [params]
   displayName = "EN"
@@ -14,7 +14,7 @@ title = "Kye Alex"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [author]
-  name = "Kye Alex"
+  name = "Kye Murphy"
 #   image = "img/blowfish_logo.png"
   headline = "Cyber Security Student"
 #   bio = "A little bit about you"
